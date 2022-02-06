@@ -7,3 +7,16 @@ To use the script click on the 'Start Duping' button and switch to Minecraft. Yo
 clicking. To stop the script simply hold ALT key on your keyboard.
 Discord - Agent Smith#9660
 Youtube - https://www.youtube.com/channel/UCP--oW_mE6ZVLptYoTDMe1w
+
+###########################################################################################################
+
+If you want to run the .py script open cmd and type:
+
+pip install pywin32
+pip install keyboard
+pip install pyautogui
+pip install pysimplegui
+
+and open a cmd in the directory of the .py file and type:
+
+py AutoDuperByWindSlashKing.py
