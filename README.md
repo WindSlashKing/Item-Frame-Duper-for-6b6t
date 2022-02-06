@@ -13,8 +13,11 @@ Youtube - https://www.youtube.com/channel/UCP--oW_mE6ZVLptYoTDMe1w
 If you want to run the .py script open cmd and type:
 
 pip install pywin32
+
 pip install keyboard
+
 pip install pyautogui
+
 pip install pysimplegui
 
 and open a cmd in the directory of the .py file and type:
