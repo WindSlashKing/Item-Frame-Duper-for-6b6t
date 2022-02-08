@@ -10,7 +10,7 @@ Youtube - https://www.youtube.com/channel/UCP--oW_mE6ZVLptYoTDMe1w
 
 ###########################################################################################################
 
-If you want to run the .py script open cmd and type:
+If you want to run the .py script install python 3, add it to path then open cmd and type:
 
 pip install pywin32
 
