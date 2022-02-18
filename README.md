@@ -14,16 +14,6 @@ Youtube - https://www.youtube.com/channel/UCP--oW_mE6ZVLptYoTDMe1w
 
 ###########################################################################################################
 
-If you want to run the .py script install python 3.10, add it to path then open cmd and type:
+If you want to run the .py script install python 3.10, and run InstallRequirements.bat.
+Next, Right-Click AutoDuperByWindSlashKing.py and under "Open With" Click Python 3.10
 
-pip install pywin32
-
-pip install keyboard
-
-pip install pyautogui
-
-pip install pysimplegui
-
-and open a cmd in the directory of the .py file and type:
-
-py AutoDuperByWindSlashKing.py
