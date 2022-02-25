@@ -6,6 +6,7 @@ import threading
 import pyautogui
 import time
 import PySimpleGUI as sg
+sg.theme('dark')
 delayLeft = 2
 delayRight = 0.1
 script_running = False
